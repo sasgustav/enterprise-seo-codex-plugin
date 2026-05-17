@@ -6,8 +6,6 @@ Plugin/skill para auditoria e implementação técnica de SEO e analytics em apl
 
 Desenvolvido por [Gustavo Vasconcelos](https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/).
 
-Os metadados públicos do plugin foram configurados no manifesto `.codex-plugin/plugin.json` para exibir Gustavo Vasconcelos como desenvolvedor nos pontos de instalação e descoberta compatíveis do Codex, incluindo `author`, `homepage`, `interface.developerName` e `interface.websiteURL`. Ao redistribuir este plugin em marketplaces internos, pessoais ou de equipe, preserve esses campos para manter a atribuição correta.
-
 ## Visão rápida
 
 Use este pacote quando quiser que o Codex atue como especialista em SEO técnico enterprise para frontends JavaScript. A skill ajuda a auditar, priorizar e implementar melhorias em:
