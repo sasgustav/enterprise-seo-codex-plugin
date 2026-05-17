@@ -1,0 +1,21 @@
+{
+  "name": "gustavo-enterprise-plugins",
+  "interface": {
+    "displayName": "Gustavo Enterprise Plugins"
+  },
+  "plugins": [
+    {
+      "name": "enterprise-frontend-seo",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sasgustav/enterprise-seo-codex-plugin.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
