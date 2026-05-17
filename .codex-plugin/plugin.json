@@ -34,9 +34,9 @@
       "Write"
     ],
     "defaultPrompt": [
-      "Use Enterprise Frontend SEO to audit this repository for crawlability, rendering, metadata, structured data, sitemaps, Core Web Vitals, and analytics risks. Produce prioritized findings and implement safe fixes where possible.",
-      "Use Enterprise Frontend SEO to implement GA4/GTM/Search Console instrumentation with a documented dataLayer contract and production QA checklist.",
-      "Use Enterprise Frontend SEO to review this Next.js/Gatsby/React/Angular app for enterprise SEO readiness before launch."
+      "Use Enterprise Frontend SEO para auditar este repositório. Identifique framework, modelo de renderização, rotas públicas, metadata, canonical, robots, sitemap, hreflang, structured data, Core Web Vitals, GA4/GTM/Search Console e riscos de PII. Priorize P0/P1, implemente correções seguras, rode lint/typecheck/test/build quando possível e gere relatório executivo com evidências.",
+      "Use Enterprise Frontend SEO para implementar GA4 + GTM + dataLayer neste projeto. Não duplique pageviews, respeite consentimento, não envie PII, documente taxonomia de eventos e inclua QA com GTM Preview, Tag Assistant, GA4 DebugView, browser network calls e Realtime.",
+      "Use Enterprise Frontend SEO para preparar este portal para escala de milhões de visitas orgânicas mensais. Revise rendering, sitemaps particionados, hreflang, canonical, schema, Core Web Vitals, logs, Search Console, GA4/GTM e riscos de indexação."
     ]
   }
 }
