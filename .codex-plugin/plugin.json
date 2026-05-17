@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "description": "Enterprise-grade technical SEO and analytics engineering workflows for JavaScript frontends at high traffic scale.",
   "author": {
-    "name": "Internal SEO Engineering"
+    "name": "Gustavo Vasconcelos",
+    "url": "https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/"
   },
+  "homepage": "https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/",
   "license": "UNLICENSED",
   "keywords": [
     "seo",
@@ -23,9 +25,10 @@
   "interface": {
     "displayName": "Enterprise Frontend SEO",
     "shortDescription": "Audit and implement enterprise technical SEO, analytics, and measurement for JS frontends.",
-    "longDescription": "Codified workflow for high-scale SEO engineering across Next.js, GatsbyJS, React, Angular, GA4, GTM, Search Console, structured data, sitemaps, robots, international SEO, Core Web Vitals, and production verification.",
-    "developerName": "Internal SEO Engineering",
+    "longDescription": "Codified workflow for high-scale SEO engineering across Next.js, GatsbyJS, React, Angular, GA4, GTM, Search Console, structured data, sitemaps, robots, international SEO, Core Web Vitals, and production verification. Developed by Gustavo Vasconcelos.",
+    "developerName": "Gustavo Vasconcelos",
     "category": "Developer Tools",
+    "websiteURL": "https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/",
     "capabilities": [
       "Read",
       "Write"

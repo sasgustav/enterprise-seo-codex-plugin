@@ -5,6 +5,10 @@ description: Use this skill for enterprise-grade technical SEO audits and implem
 
 # Enterprise Frontend SEO Skill
 
+## Developer
+
+Developed and maintained by [Gustavo Vasconcelos](https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/).
+
 ## Mission
 
 Deliver production-grade SEO and analytics engineering for high-traffic web properties. Treat every change as if the application may serve millions of monthly organic visits and must be safe, measurable, reversible, and reviewable.

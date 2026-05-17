@@ -1,7 +1,7 @@
 {
   "name": "internal-enterprise-plugins",
   "interface": {
-    "displayName": "Internal Enterprise Plugins"
+    "displayName": "Enterprise SEO Plugins by Gustavo Vasconcelos"
   },
   "plugins": [
     {

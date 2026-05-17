@@ -2,6 +2,12 @@
 
 Plugin/skill para auditoria e implementação técnica de SEO e analytics em aplicações JavaScript de alto tráfego.
 
+## Desenvolvedor
+
+Desenvolvido por [Gustavo Vasconcelos](https://www.linkedin.com/in/gustavo-vasconcelos-software-engineer/).
+
+Os metadados públicos do plugin foram configurados no manifesto `.codex-plugin/plugin.json` para exibir Gustavo Vasconcelos como desenvolvedor nos pontos de instalação e descoberta compatíveis do Codex, incluindo `author`, `homepage`, `interface.developerName` e `interface.websiteURL`. Ao redistribuir este plugin em marketplaces internos, pessoais ou de equipe, preserve esses campos para manter a atribuição correta.
+
 ## Conteúdo
 
 - `.codex-plugin/plugin.json`: manifesto do plugin.
@@ -9,7 +15,7 @@ Plugin/skill para auditoria e implementação técnica de SEO e analytics em apl
 - `skills/enterprise-frontend-seo/references/`: playbooks, gates de qualidade, analytics, relatório e mapa de fontes.
 - `skills/enterprise-frontend-seo/scripts/seo-audit.mjs`: scanner heurístico local sem dependências externas.
 - `skills/enterprise-frontend-seo/assets/templates/`: templates de implementação para Next.js, Gatsby, React, Angular e analytics.
-- `install/repo-marketplace.example.json`: exemplo de marketplace local para distribuição por repositório.
+- `install/repo-marketplace.example.json` e `install/personal-marketplace.example.json`: exemplos de marketplace local para distribuição por repositório ou uso pessoal.
 
 ## Instalação por repositório
 
